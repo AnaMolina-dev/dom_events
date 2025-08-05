@@ -1,32 +1,29 @@
-# 🧪 DOM y Eventos – Ejercicio Práctico con JavaScript
+🧪 DOM and Events – Practical Exercise with JavaScript
+This project contains a collection of practical exercises focused on DOM manipulation and browser event handling using plain JavaScript. It is part of the Basic JavaScript III module in the web development bootcamp.
 
-Este proyecto contiene una colección de ejercicios prácticos enfocados en la **manipulación del DOM** y la **gestión de eventos del navegador** usando JavaScript puro. Forma parte del módulo _JavaScript Básico III_ del bootcamp en desarrollo web.
+🎯 Exercise Objectives
+Dynamically modify DOM elements (content, styles, attributes).
 
----
+Implement events such as click, submit, among others.
 
-## 🎯 Objetivos del ejercicio
+Create real-time interactions between the user and the web interface.
 
-- Modificar elementos del DOM dinámicamente (contenido, estilos, atributos).
-- Implementar eventos como `click`, `submit`, entre otros.
-- Crear interacciones entre el usuario y la interfaz web en tiempo real.
-- Organizar el código de forma clara y estructurada para facilitar su mantenimiento.
+Organize code clearly and structurally to facilitate maintenance.
 
----
+📂 Project Structure
+📌 Included Exercises
+Change text: Modify the content of a paragraph using JavaScript.
 
-## 📂 Estructura del Proyecto
+Change style: Apply a class that changes the text color.
 
----
+Add/remove elements: Dynamically create <li> elements within a list.
 
-## 📌 Ejercicios Incluidos
+Display array of names: Print an HTML list generated from an array.
 
-1. **Cambiar texto:** Modifica el contenido de un párrafo desde JavaScript.
-2. **Cambiar estilo:** Aplica una clase que altera el color del texto.
-3. **Agregar/eliminar elementos:** Crea dinámicamente elementos `<li>` dentro de una lista.
-4. **Mostrar array de nombres:** Imprime una lista HTML generada desde un array.
-5. **Contar elementos:** Muestra cuántos elementos tiene un array numérico.
-6. **Formulario dinámico:** Inserta un formulario generado completamente desde JS.
-7. **Tabla de nombres:** Crea una tabla HTML usando un array de nombres.
-8. **Tabla de objeto:** Muestra las propiedades de un objeto en una tabla visualmente ordenada.
+Count elements: Show how many elements are in a numeric array.
 
----
+Dynamic form: Insert a form generated entirely with JS.
 
+Name table: Create an HTML table using an array of names.
+
+Object table: Display the properties of an object in a visually organized table.
