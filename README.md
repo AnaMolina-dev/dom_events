@@ -30,9 +30,3 @@ Este proyecto contiene una colección de ejercicios prácticos enfocados en la *
 
 ---
 
-## 🚀 Cómo ejecutarlo
-
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/AnaMolina-dev/DOM_y_Eventos_Ejercicios.git
-   ```
